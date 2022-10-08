@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @belo355
 - 👀 I’m interested in codes! 
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently learning Angular 2+ 
 
 <!---
 belo355/belo355 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
